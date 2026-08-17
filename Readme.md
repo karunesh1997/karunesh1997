@@ -69,7 +69,8 @@ Analyzed large-scale banking transaction data to understand customer behavior, t
 - Anomaly detection
 - Power BI dashboards and KPI reporting
 
-🔗 **[View Project](YOUR_BANKING_PROJECT_URL)**
+🔗 **[View Project](https://github.com/karunesh1997/banking-customer-transaction-analytics)**
+
 
 ---
 
@@ -91,7 +92,7 @@ Analyzed Bengaluru restaurant data to identify trends in ratings, pricing, cuisi
 - Restaurant segmentation
 - Machine Learning analysis
 
-🔗 **[View Project](YOUR_ZOMATO_PROJECT_URL)**
+🔗 **[View Project](https://github.com/karunesh1997/Bengaluru-Zomato-Restaurant-Analytics)**
 
 ---
 
@@ -115,7 +116,7 @@ Built a document intelligence application that allows users to upload documents 
 
 `Document → Text Extraction → Chunking → Embeddings → FAISS → Context Retrieval → LLM → Answer`
 
-🔗 **[View Project](YOUR_POLICY_PAL_URL)**
+🔗 **[View Project](https://github.com/karunesh1997/PolicyPal-RAG)**
 
 ---
 
@@ -199,7 +200,7 @@ I'm currently open to opportunities in:
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/12karunesh">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -207,11 +208,11 @@ I'm currently open to opportunities in:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_URL">
+<a href="https://drive.google.com/file/d/1lDsd6Ib6mMIcuzsXTPlACUoEJE8zYgxn/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:chaturvediaman1997@gmail.com">
 <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
