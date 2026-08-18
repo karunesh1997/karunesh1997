@@ -192,6 +192,17 @@ I follow an end-to-end approach to solving business problems with data:
 
 ---
 
+# 🎯 My Certificates
+
+
+- **[SQL (HackerRank Beg - Advance)](https://drive.google.com/file/d/1YT6m3RssasBbDRH-HMQLUtiEooyE-JQR/view?usp=sharing)**
+- **[Implementing Machine Learning techniques using Numpy (IIT Madras)](https://drive.google.com/file/d/1GzemQJvqze36nrFUqA-_0GAFT5WOR-ft/view?usp=sharing)**
+- **[Introduction to Cloud Computing with GCP](https://drive.google.com/file/d/1MPOb3tcnsa0Hg0IPsiMZ0w0eTpKGHkKS/view?usp=sharing)**
+- **[Minor in Economics and Finance](https://drive.google.com/file/d/1a2yqAlvOIv4rp8N4Rh9fP4EwQaIf1gtH/view?usp=sharing)**
+- **[Diploma in Data Science](https://drive.google.com/file/d/1jlObtYTlMSyL2Lt2FwWr16p0YR8tYzhn/view?usp=sharing)**
+- **[Diploma in Programming](https://drive.google.com/file/d/1MA4dJ0N2-p7bS_qk-8Mjtx-YXV6EklpE/view?usp=sharing)**
+
+---
 # 📫 Let's Connect
 
 I'm currently open to opportunities in:
