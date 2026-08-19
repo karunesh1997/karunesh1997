@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Karunesh Chaturvedi
+c# 👋 Hi, I'm Karunesh Chaturvedi
 
 ### 📊 Data Analyst | Business Intelligence | Business Analytics | AI/LLM
 
@@ -192,7 +192,7 @@ I follow an end-to-end approach to solving business problems with data:
 
 ---
 
-# 🎯 My Certificates
+# 🏆 My Certificates
 
 
 - **[SQL (HackerRank Beg - Advance)](https://drive.google.com/file/d/1YT6m3RssasBbDRH-HMQLUtiEooyE-JQR/view?usp=sharing)**
