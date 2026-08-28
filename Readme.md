@@ -1,4 +1,5 @@
-c# 👋 Hi, I'm Karunesh Chaturvedi
+## Hi, I'm Karunesh Chaturvedi
+
 
 ### 📊 Data Analyst | Business Intelligence | Business Analytics | AI/LLM
 
